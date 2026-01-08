@@ -1,0 +1,23 @@
+
+{
+  "short_name": "SyncFamily",
+  "name": "SyncFamily - Calendário Inteligente",
+  "icons": [
+    {
+      "src": "https://picsum.photos/id/1/192/192",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://picsum.photos/id/1/512/512",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "background_color": "#f8fafc",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#6366f1",
+  "description": "Calendário compartilhado com IA e integração WhatsApp para famílias."
+}

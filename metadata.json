@@ -1,0 +1,8 @@
+{
+  "name": "SyncFamily - Calendário Inteligente Compartilhado",
+  "description": "Um gerenciador colaborativo de tarefas e calendário para grupos e famílias. Possui entrada de tarefas em linguagem natural via Gemini, integração com WhatsApp para notificações e gestão de membros.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
